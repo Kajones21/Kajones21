@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Kayla and I am a data Analyst based in Michigan, USA.
+I'm Kayla and I am a data analyst based in Michigan, USA.
 
 ## About Me
 I enjoy working with people to create simple, efficient solutions to their data needs, from intake and analysis to evaluation and visualizations. I believe the most successful and sustainable solutions occur when great technical skills meet clear communication and working towards a common goal.
