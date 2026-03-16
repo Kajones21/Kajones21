@@ -11,7 +11,8 @@ I enjoy working with people to create simple, efficient solutions to their data 
 - Power BI (Microsoft Certified 🎉), Tableau
 - Power Apps, Power Automate, SharePoint
 
-**Currently Learning**
+**Currently Learning:**
+
 I am currently learning HTML, CSS, and JavaScript. I discovered a passion for designing applications when creating accessible user interfaces using Microsoft Power Apps and Power Automate on a SharePoint site I created. I am excited to expand repertoire. 
 
 ### Fun Facts:
