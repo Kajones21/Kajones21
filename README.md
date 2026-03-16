@@ -13,7 +13,7 @@ I enjoy working with people to create simple, efficient solutions to their data 
 
 **Currently Learning:**
 
-I am currently learning HTML, CSS, and JavaScript. I discovered a passion for designing applications when creating accessible user interfaces using Microsoft Power Apps and Power Automate on a SharePoint site I created. I am excited to expand repertoire. 
+I am currently learning HTML, CSS, and JavaScript. I discovered a passion for designing applications when creating accessible user interfaces using Microsoft Power Apps and Power Automate on a SharePoint site I created. I am excited to expand my coding repertoire. 
 
 ### Fun Facts:
 * I like sewing; a goal for 2026 is to learn to make garments on my sewing machine.
